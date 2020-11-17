@@ -11,3 +11,17 @@
 2. Toy Problems: https://github.com/MattGDwyer/toy-problems
 
 
+
+# 100 Days Of Code - Log
+
+### Day 2: November 16, Monday
+
+**Today's Progress**: Worked a lot on getting ready to do things. Didn't work on enough actual code! Deciding what technologies to learn while building an app that interacts with google maps api. Gonna be so cool! Did a toy problem that took me far longer than it should have. Also disappointed in my implementation. That's why I want to do them every day.
+
+**Thoughts** I want to get these toy problems down to where I can do them relatively quickly. I have difficulties interpretting the language in them, and I often pattern match without knowing exactly what is going on.
+
+**Link(s) to work**
+1. Techs I'm looking at learning: Firebase, MySQL, MongoDB, Heroku, Github Pages
+2. Toy Problem: "getFinalOpenDoors" https://github.com/MattGDwyer/toy-problems
+
+
