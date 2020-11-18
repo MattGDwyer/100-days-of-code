@@ -25,3 +25,14 @@
 2. Toy Problem: "getFinalOpenDoors" https://github.com/MattGDwyer/toy-problems
 
 
+
+# 100 Days Of Code - Log
+
+### Day 3: November 17, Tuesday
+
+**Today's Progress**: Relatively productive day. Got through a lot of solidifying my html/css knowledge. Didn't finish my toy problem today. Will finish in the morning.
+
+**Thoughts** HTML/CSS: picking up things I didn't know. I realize much of HTML tags aren't used, but good to get to know them. CSS is full of tricks and secrets. I am really pondering how to quickly comprehend a toy problem prompt. Today's was Symmetric Differences. I had no idea what they were, but when I created a real-world version of the processes being carried out in imy head, I understood within a minute. Good to know. I still have issues with logic errors. Currently, my solution compares only 1 of the 2 arrays. Also intend to start using helper functions ALL THE TIME. Not there yet though.
+
+**Link(s) to work**
+1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
