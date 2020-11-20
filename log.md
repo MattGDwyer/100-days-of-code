@@ -12,7 +12,7 @@
 
 
 
-# 100 Days Of Code - Log
+
 
 ### Day 2: November 16, Monday
 
@@ -26,7 +26,7 @@
 
 
 
-# 100 Days Of Code - Log
+
 
 ### Day 3: November 17, Tuesday
 
@@ -44,6 +44,15 @@
 **Today's Progress**: Decent day. Not great, but decent. Getting into CSS animations. Very cool. Same toy problem from yesterday still not solved. Know what I need to do to finish it. It should be relatively easy.
 
 **Thoughts** I ran into problems dealing with the arguments object. I thought I knew what I needed to know about how the arguments object works. It appears you cannot directly return an argument by accessing it using bracket notation. ie: return arguments[0]. It is difficult to know when to dig into a topic. So instead of reading in depth about it, I blindly tried things based on my understanding of how it works. I've heard countless times that you need to understand your code before using it, and not just try things to see if they work. However, I wasted a ton of time doing that on this problem. Knowing it and doing it are two very different things. I will be very happy to solve it, and rewrite the code that has now deteriorated into its most rudimentary form.
+
+**Link(s) to work**
+1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
+
+### Day 5: November 19, Thursday
+
+**Today's Progress**: More CSS complete. Looking forward to the projects. Should be on them by Saturday
+
+**Thoughts** Still haven't solved the Toy Problem I am working on. I took most of 2 weeks off from coding prior to this. It really shows. Can't wait to work on my JS fundamentals. Maybe tomorrow? Fighting through it.
 
 **Link(s) to work**
 1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
