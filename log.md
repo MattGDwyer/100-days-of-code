@@ -56,3 +56,16 @@
 
 **Link(s) to work**
 1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
+
+
+
+
+### Day 6: November 20, Friday
+
+**Today's Progress**: CSS tutorial complete! Tomorrow I get to start working on some pure html/css webpages. Haven't done that before. Looking forward to it. Toy problem still giving me trouble. Didn't spend much time on it, probably because I am frustrated.
+
+**Thoughts** Looking forward to playing around with CSS all by itself. No jQuery, no React, nothing. Haven't done that before. Javascript is where I have spent the majority of my time. Having this simple comparison problem cause me so many problems is really frustrating. It is surprising how much my comprehension regressed in such a short period. Lesson learned. As well, my issues largely stem from a lack of recent practice with recursion. I have a few recursion problems to practice. Moving forward, those will be what I'm working on!
+
+**Link(s) to work**
+1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
+2. CSS Projects: https://freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/
