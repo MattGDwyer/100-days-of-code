@@ -69,3 +69,21 @@
 **Link(s) to work**
 1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
 2. CSS Projects: https://freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/
+
+
+
+
+### Day 7: November 21, Saturday
+
+**Today's Progress**: Started the first Responsive Web Design project on freecodecamp. Planning to be done with mvp of all projects by the end of Monday. Finally finished findSymmetricalDifference.
+
+**Thoughts** I am constantly looking at my problem solving process. Today I did a couple of things that I want to take a moment to point out:
+
+      1: I had a notebook and a pencil. On the left side of the page I wrote my pseudocode. On the right side I wrote my visualization. My visualizations still need work, but this made it plain to see whether my logic was working, and if I missed a step/misused something. Moving forward I will be more detailed with my visualization, so I don't miss anything.
+
+      2: Instead of immediately setting a breakpoint, and stepping through my code, I wrote my stream of thought out. I wrote what was happening, what I wanted to happen, and what potential solutions were. After that I stood up, took a 5 minute break, and came back to it. 2 minutes later I had it solved.
+
+**Link(s) to work**
+1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
+2. CSS Projects: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
