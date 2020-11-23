@@ -87,3 +87,12 @@
 1. Toy Problem: "findSymmetricalDifference" https://github.com/MattGDwyer/toy-problems
 2. CSS Projects: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
+
+### Day 8: November 22, Sunday
+
+**Today's Progress**: Working on FCC projects. Almost done with first certificate.
+
+**Thoughts** My habit of pattern matching, and guessing what will be the answer continues to be a problem. I am aware of it. However, awareness and action are two different things. I hereby commit to not writing a single line of code (CSS or otherwise) that I do not understand!
+
+**Link(s) to work**
+1. CSS Projects: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/
