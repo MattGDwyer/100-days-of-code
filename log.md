@@ -96,3 +96,13 @@
 
 **Link(s) to work**
 1. CSS Projects: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/
+
+
+### Day 9: November 23, Monday
+
+**Today's Progress**: Still working on FCC projects. Learned Corvid today. Its basically jQuery.
+
+**Thoughts** Had no idea what Corvid was when I woke up today. Now I'm building a portfolio page for a friend using it! Interesting that it is nearly identical to jQuery so far. Can't say I love working with the Wix GUI. Onward and upward! Never give up! Never Surrender!
+
+**Link(s) to work**
+1. CSS Projects: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/
