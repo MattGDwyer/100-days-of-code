@@ -106,3 +106,13 @@
 
 **Link(s) to work**
 1. CSS Projects: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/
+
+
+### Day 10: November 24, Tuesday
+
+**Today's Progress**: Working on a portfolio page for a friend. Learning how to manipulate wix page without using GUI. Corvid docs are decent...
+
+**Thoughts** Now that I am familiar with corvid, I will be writing code with it, as opposed to using the "easy" way out (using all of the confusingly organized menus in the gui). It works just like jQuery.
+
+**Link(s) to work**
+1. Corvid API: https://www.wix.com/corvid/reference/$w/element
