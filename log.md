@@ -116,3 +116,13 @@
 
 **Link(s) to work**
 1. Corvid API: https://www.wix.com/corvid/reference/$w/element
+
+
+### Day 11: November 25, Wednesday
+
+**Today's Progress**: Today I did a sort algorithm as a toy-problem. Merge Sort.
+
+**Thoughts** Good to be working on an algorithm again today, and these sorts are a great resource!
+
+**Link(s) to work**
+1. Merge Sort: https://github.com/MattGDwyer/toy-problems
