@@ -126,3 +126,13 @@
 
 **Link(s) to work**
 1. Merge Sort: https://github.com/MattGDwyer/toy-problems
+
+
+### Day 12: November 27, Friday
+
+**Today's Progress**: Working on FCC project.
+
+**Thoughts** Building good habits moving forward with html and css. Got over my frustration with css by finding some good resources for knowing what properties work well with each other.
+
+**Link(s) to work**
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
