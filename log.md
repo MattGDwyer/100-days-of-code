@@ -145,4 +145,4 @@
 **Thoughts** Got to the point where I was adjusting things over and over. Down the rabbit hole I went. Seems to be a constant danger for me, and in CSS. I feel a lot more confident with the way things interact in CSS. While the project I built is not perfect, it does represent a lot of work. I think its time to move on to the next project. I'm embarrassed to share it in its current state, but here it is:
 
 **Link(s) to work**
-1. Product Landing Page(https://codepen.io/MattDwyer/pen/WNxVyOr?editors=1100)
+1. [Product Landing Page](https://codepen.io/MattDwyer/pen/WNxVyOr?editors=1100)
