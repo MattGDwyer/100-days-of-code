@@ -146,3 +146,15 @@
 
 **Link(s) to work**
 1. [Product Landing Page](https://codepen.io/MattDwyer/pen/WNxVyOr?editors=1100)
+
+
+
+### Day 14: November 30, Monday
+
+**Today's Progress**: Layed out the html framework for an FCC project
+
+**Thoughts** Continued using the same project building process. Sketching a wireframe, writing out the html, and then the CSS to give it form. Seems to be working well for me.
+
+
+**Link(s) to work**
+1. [ES6 Documentation Page](https://codepen.io/MattDwyer/pen/mdrJqYN)
