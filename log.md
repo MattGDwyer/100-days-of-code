@@ -158,3 +158,14 @@
 
 **Link(s) to work**
 1. [ES6 Documentation Page](https://codepen.io/MattDwyer/pen/mdrJqYN)
+
+
+### Day 15: December 1, Tuesday
+
+**Today's Progress**: Finished FCC project. Think it looks good, actually.
+
+**Thoughts** I unexpectedly had a lot of fun making this page as close to picture perfect as I could. CSS no longer feels daunting. I've figured out the problem solving process. To me, it requires a foundation of knowledge of interactions between certain properties. ie: certain things are reserved for grid, flexbox, and certain cascade principles will totally destroy your project if you don't know how they work.
+
+
+**Link(s) to work**
+1. [ES6 Documentation Page](https://codepen.io/MattDwyer/pen/mdrJqYN?editors=1000)
