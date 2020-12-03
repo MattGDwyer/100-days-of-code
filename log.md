@@ -169,3 +169,14 @@
 
 **Link(s) to work**
 1. [ES6 Documentation Page](https://codepen.io/MattDwyer/pen/mdrJqYN?editors=1000)
+
+
+### Day 16: December 2, Wednesday
+
+**Today's Progress**: Not much to show. Deciding what projects to include in my portfolio page project to finish out the HTML/CSS certificate on FCC.
+
+**Thoughts** I would like to take a moment to talk about rabbit holes. This project has a lot of them, as do all coding projects. But this one has me thinking about it. My plan is to quickly skim through my work to find the things that I won't have to do any work to, and still be ok with other people seeing them. That's my goal at least... The more work I do on my own, the more I find that having a plan that improves from learning, and some rules to follow, are what keep me from wasting my time in various ways.
+
+
+**Link(s) to work**
+1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
