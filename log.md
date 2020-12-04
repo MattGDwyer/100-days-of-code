@@ -180,3 +180,15 @@
 
 **Link(s) to work**
 1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+
+
+### Day 17: December 3, Thursday
+
+**Today's Progress**: Picked out the projects I want to show for my portfolio.
+
+**Thoughts**  Having a rough go of it in the rest of my life. I'm gonna stay focused on this and health. They are the most important things in my life, and will keep making me feel good. Covid sucks.
+
+
+**Link(s) to work**
+1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
