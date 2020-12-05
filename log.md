@@ -192,3 +192,17 @@
 
 **Link(s) to work**
 1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+
+
+### Day 18: December 4, Friday
+
+**Today's Progress**: Wireframe complete for portfolio. Chose some animations and figured out how they work.
+
+**Thoughts**  Need some motivation. So much going on outside of this. I'd be missing days if I didn't have
+@rico042002 holding me up. Thank you Rico. In other news, most of my github repos are either empty, or private. I need to push my work up to the empty ones, and some of the private ones can be made public. Not my focus, but I need to make it reflect my body of work so far.
+
+
+
+**Link(s) to work**
+1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
