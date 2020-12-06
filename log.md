@@ -206,3 +206,16 @@
 
 **Link(s) to work**
 1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+
+
+### Day 19: December 5, Saturday
+
+**Today's Progress**: Completed more of the portfolio page project.
+
+**Thoughts**  Getting excited about this one. The creativity aspect of front end work is really a place where I can get inspiration. Once I find something that gets me going, I am like a pitbull.
+
+
+
+**Link(s) to work**
+1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
