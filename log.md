@@ -219,3 +219,15 @@
 
 **Link(s) to work**
 1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+
+### Day 20: December 6, Sunday
+
+**Today's Progress**: Portfolio coming together. It pleases me.
+
+**Thoughts**  I've found a way to both satisfy the FCC test cases and make it a project that I can continue to use to show my progress learning. Hyperfocus has its benefits.
+
+
+
+**Link(s) to work**
+1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
