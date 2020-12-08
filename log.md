@@ -231,3 +231,16 @@
 
 **Link(s) to work**
 1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+
+
+### Day 21: December 7, Monday
+
+**Today's Progress**: Created scan-line overlay to give old computer effect.
+
+**Thoughts**  Once again, I jumped in head first without really thinking out the entire project. The "hold my beer" method bit me, so I rewrote my css to be more accurate. Also ran into an issue with clickthrough. Working on it.
+
+
+
+**Link(s) to work**
+1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
