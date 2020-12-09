@@ -234,13 +234,13 @@
 
 
 
-### Day 21: December 7, Monday
+### Day 22: December 8, Tuesday
 
-**Today's Progress**: Created scan-line overlay to give old computer effect.
+**Today's Progress**: Portfolio MVP complete. Will start animating, and deploy tomorrow
 
-**Thoughts**  Once again, I jumped in head first without really thinking out the entire project. The "hold my beer" method bit me, so I rewrote my css to be more accurate. Also ran into an issue with clickthrough. Working on it.
+**Thoughts**  I'm ok with it. Once I am able to animate it, I will like it a lot more. It needs some work, but it looks good. codepen is frustrating.
 
 
 
 **Link(s) to work**
-1. [FCC Personal Portfolio Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+1. [Portfolio Rough Draft](https://codepen.io/MattDwyer/pen/XWjjjad)
