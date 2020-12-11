@@ -244,3 +244,34 @@
 
 **Link(s) to work**
 1. [Portfolio Rough Draft](https://codepen.io/MattDwyer/pen/XWjjjad)
+
+
+
+
+
+
+### Day 23: December 9, Wednesday
+
+**Today's Progress**: Playing around with various creative touches.
+
+**Thoughts**  I absolutely love making cool looking pages. If I could get paid to do this, that would be a dream come true.
+
+
+
+**Link(s) to work**
+1. [Portfolio Rough Draft](https://codepen.io/MattDwyer/pen/XWjjjad)
+
+
+
+
+
+### Day 24: December 10, Thursday
+
+**Today's Progress**: Played around too much. Now the page alignment isn't what I want...
+
+**Thoughts** Another situation where I needed to step away and rethink what I'm doing. I went way down ta rabbit hole, but at least I saw it and I pulled myself out.
+
+
+
+**Link(s) to work**
+1. [Portfolio Rough Draft](https://codepen.io/MattDwyer/pen/XWjjjad)
