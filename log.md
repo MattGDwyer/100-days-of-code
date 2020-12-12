@@ -275,3 +275,16 @@
 
 **Link(s) to work**
 1. [Portfolio Rough Draft](https://codepen.io/MattDwyer/pen/XWjjjad)
+
+
+
+### Day 25: December 11, Friday
+
+**Today's Progress**: Done w/responsive web design certificate.
+
+**Thoughts** Its not everything I want it to be, but it represents me building something from scratch to a specific aesthetic. There is creative thought here. There is a lot that could be done to improve this, but that isn't the point. The point is, I moved the dial forward today, and finished a certificate.
+
+
+
+**Link(s) to work**
+1. [Portfolio](https://codepen.io/MattDwyer/pen/XWjjjad)
