@@ -288,3 +288,19 @@
 
 **Link(s) to work**
 1. [Portfolio](https://codepen.io/MattDwyer/pen/XWjjjad)
+
+
+
+
+
+
+### Day 26: December 12, Saturday
+
+**Today's Progress**: Time spent figuring out HTML5 Boilerplate
+
+**Thoughts** Not the day I anticipated. Spent reading docs on vscode, updating vscode, making sure vscode is operating in the right directory, reading and rereading the docs etc. Its late. I'm sure I'll be good in the morning.
+
+
+
+**Link(s) to work**
+1. Nothing today aside from this neato toy problem: https://github.com/MattGDwyer/toy-problems

@@ -13,5 +13,10 @@
 			"path": "/Users/matthewdwyer/toy-problems"
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"rajeshroyal896.extended-html5-boilerplate"
+		]
+	}
 }
