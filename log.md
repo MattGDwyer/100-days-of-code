@@ -304,3 +304,16 @@
 
 **Link(s) to work**
 1. Nothing today aside from this neato toy problem: https://github.com/MattGDwyer/toy-problems
+
+
+
+### Day 27: December 13, Sunday
+
+**Today's Progress**: Learning how to deploy using node, express and heroku
+
+**Thoughts** Good time learning some node and how to use heroku. Tomorrow will learn express.
+
+
+
+**Link(s) to work**
+1. https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
