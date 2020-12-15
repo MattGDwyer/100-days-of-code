@@ -317,3 +317,19 @@
 
 **Link(s) to work**
 1. https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+
+
+
+
+
+
+### Day 26: December 14, Monday
+
+**Today's Progress**: Working through express tutorial.
+
+**Thoughts** I have to say, I adore backend work. Maybe its the kid in me that learned how to build/modify things from DOS. Point is, gimme a green/gray font over a black background and I'm happy plugging away at learning how to build a server.
+
+
+
+**Link(s) to work**
+1. https://expressjs.com/en/starter/generator.html
