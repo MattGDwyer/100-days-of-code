@@ -332,4 +332,20 @@
 
 
 **Link(s) to work**
-1. https://expressjs.com/en/starter/generator.html
+1. https://expressjs.com/en/starter/generator.
+
+
+
+
+### Day 27: December 15, Tuesday
+
+**Today's Progress**: Building a js pomodoro timer
+
+**Thoughts** I bullet journal using onenote. yesterday I realized Onenote has native embedding of repl.it. That's a big deal to me! So today I decided to start work on a pomodoro timer using straight js. Sadly, I need a library to play the audio I'd like, but that should be no big deal. I found one. Tomorrow I should be able to finish it no problem! Fun!
+
+
+
+**Link(s) to work**
+1. [repl of my timer](https://repl.it/@MatthewDwyer/Pomodoro-Timer)
+
+
