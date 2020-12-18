@@ -349,3 +349,17 @@
 1. [repl of my timer](https://repl.it/@MatthewDwyer/Pomodoro-Timer)
 
 
+
+
+
+### Day 28: December 17, Thursday
+
+**Today's Progress**: Building a js pomodoro timer
+
+**Thoughts** After dealing with 6 hours of trying to fix my macbook overheating... Decided to make the pomodoro a simple web app that focuses on the challenges of having ADHD. This is potentially a path I wan to move in with my career. I've found several tutorials to use. I'm gonna make a deadline for myself: Dec 19th: done and polished. Moving on.
+
+
+
+**Link(s) to work**
+1. [repl of my timer](https://repl.it/@MatthewDwyer/Pomodoro-Timer)
+
