@@ -1,16 +1,20 @@
 {
 	"folders": [
 		{
+			"name": "100-days-of-code",
 			"path": "."
 		},
 		{
-			"path": "/Users/matthewdwyer/freecodecamp/projects"
+			"name": "projects",
+			"path": "../projects"
 		},
 		{
-			"path": "/Users/matthewdwyer/freecodecamp/projects/Portfolio Page"
+			"name": "pomodoro-timer",
+			"path": "../pomodoro-timer"
 		},
 		{
-			"path": "/Users/matthewdwyer/toy-problems"
+			"name": "toy-problems",
+			"path": "../../toy-problems"
 		}
 	],
 	"settings": {},

@@ -363,3 +363,17 @@
 **Link(s) to work**
 1. [repl of my timer](https://repl.it/@MatthewDwyer/Pomodoro-Timer)
 
+
+
+
+### Day 29: December 19, Saturday
+
+**Today's Progress**: Finish MVP for pomodoro timer
+
+**Thoughts** Got a neat little pomodoro timer with no styling, but a progress bar. Needs styling and alerts/sounds. But good start.
+
+
+
+**Link(s) to work**
+1. [Pomodoro Timer repo](https://github.com/MattGDwyer/pomodoro-timer.git)
+
