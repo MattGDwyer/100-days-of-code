@@ -377,3 +377,16 @@
 **Link(s) to work**
 1. [Pomodoro Timer repo](https://github.com/MattGDwyer/pomodoro-timer.git)
 
+
+
+
+### Day 30: December 21, Monday
+
+**Today's Progress**: Worked through some of JS Algorithms and Data Structures for the certificate.
+
+**Thoughts** I've been lost. Lost in a sea of suggestions and opinions on what it takes to become a full stack software engineer. It has made me lose sight of my goal. I see that. Now I am building my unique point A to point B. This is will be what I believe to be the path for me to get there. In that, I realize I need the structure of a program like freecodecamp. I also will be determining deadlines for personal "real world" projects. That includes my portfolio. Godspeed Matt Dwyer. You got this. Thank you @rico042002 for undying support.
+
+
+
+**Link(s) to work**
+1. [My meager progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
