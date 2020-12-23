@@ -390,3 +390,17 @@
 
 **Link(s) to work**
 1. [My meager progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+### Day 31: December 22, Tuesday
+
+**Today's Progress**: Continued working through JS certificate on freecodecamp.
+
+**Thoughts** Kept working. I love JS.
+
+
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
