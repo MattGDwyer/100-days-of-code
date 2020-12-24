@@ -404,3 +404,17 @@
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
 
 
+
+
+
+### Day 32: December 23, Wednesday
+
+**Today's Progress**: Continued working through JS certificate on freecodecamp.
+
+**Thoughts** I took some time and wrote out what I view as my roadmap to my ideal software engineering job. I will be revisiting my portfolio, expanding on it, doing more toy problems, and not feeling guilty for being sidetracked. I also worked through freecodecamp js problems.
+
+
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
