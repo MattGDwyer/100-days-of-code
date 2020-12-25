@@ -407,6 +407,17 @@
 
 
 
+### Day 33: December 24, Thursday
+
+**Today's Progress**: Continued working through JS certificate on freecodecamp.
+
+**Thoughts** Nothing big to say today. Kept working through fcc js certificate.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
 ### Day 32: December 23, Wednesday
 
 **Today's Progress**: Continued working through JS certificate on freecodecamp.
@@ -417,4 +428,3 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
-
