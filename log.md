@@ -443,3 +443,27 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 35: December 27, Sunday
+
+**Today's Progress**: Continued working through JS certificate on freecodecamp.
+
+**Thoughts** Still working on the same section of Basic JS. Taking time to make sure I have 100% comprehension. For some reason I never learned switch statements? Now I know.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 36: December 28, Monday
+
+**Today's Progress**: Almost done with Basic JS.
+
+**Thoughts** Finally hit some more complex problems. They are so much more engaging!
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
