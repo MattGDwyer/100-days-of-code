@@ -467,3 +467,16 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+
+### Day 37: December 29, Tuesday
+
+**Today's Progress**: Stuck on a problem in FCC Basic js...
+
+**Thoughts** The way things are worded is often a sticking point for me. Its late, I'm done for today. Getting angry at it isn't going to help. Fresh start tomorrow!
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
