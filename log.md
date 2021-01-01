@@ -493,3 +493,15 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 39: January 1, Friday
+
+**Today's Progress**: 92% done on basic JS.
+
+**Thoughts** Getting closer...
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
