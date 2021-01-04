@@ -505,3 +505,16 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+
+### Day 40: January 3, Sunday
+
+**Today's Progress**: 100% complete on FCC Basic Javascript
+
+**Thoughts** One more chunk down!
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
