@@ -518,3 +518,15 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 41: January 4, Monday
+
+**Today's Progress**: 22% complete on FCC ES6
+
+**Thoughts** Should be done in the next 2 days.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
