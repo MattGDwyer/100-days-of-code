@@ -538,7 +538,20 @@
 
 **Today's Progress**: 71% complete on FCC ES6
 
-**Thoughts** Almost done with this chunk!
+**Thoughts** Almost done with this chunk  !
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+
+### Day 43: January 6, Wednesday
+
+**Today's Progress**: 87% complete on FCC ES6
+
+**Thoughts** Almost done with this chunk! Strange times, but I still got some work done.
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
