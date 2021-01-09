@@ -555,3 +555,15 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 44: January 8, Friday
+
+**Today's Progress**: ES6 Complete. 88% on regex section
+
+**Thoughts** Chugging along. Looking forward to the projects at the end of this section.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
