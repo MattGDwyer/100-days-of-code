@@ -567,3 +567,16 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+
+### Day 45: January 10, Sunday
+
+**Today's Progress**: FCC regex/debugging complete
+
+**Thoughts** Continuing forward. Debugging section is a little sparse.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
