@@ -580,3 +580,15 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 46: January 11, Monday
+
+**Today's Progress**: FCC Basic Data Structures complete
+
+**Thoughts** Progress is now steady and encouraging. I owe that in part to my prior knowledge of js. I love Algorithm Scripting! Lucky for me, that's the next section.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
