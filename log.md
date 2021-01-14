@@ -592,3 +592,15 @@
 
 **Link(s) to work**
 1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
+
+
+
+
+### Day 46: January 13, Wednesday
+
+**Today's Progress**: 31% on basic FCC basic algorithm scripting
+
+**Thoughts** Having fun with writing some basic whiteboard problems.
+
+**Link(s) to work**
+1. [My progress](https://www.freecodecamp.org/fcc315d258e-2a09-4d37-8211-d6355054806e)
